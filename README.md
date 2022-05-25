@@ -1,4 +1,4 @@
-# Source-Code-Fix-Exercise
+# Source Code Fix Exercise
 This is an exercise for club members to work on fixing errors in this project's source code.
 
 # Purpose
