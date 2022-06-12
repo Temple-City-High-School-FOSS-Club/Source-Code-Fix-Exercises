@@ -1,5 +1,5 @@
-# Source Code Fix Exercise
-This is an exercise for club members to work on fixing errors in this project's source code. This project will be filed with lots of errors that students will need to work together on to fix.
+# Source Code Fix Exercises
+This is a collection of exercises for club members to work on fixing errors in this project's source code. The files in here will be filed with lots of errors that students will need to work together on to fix.
 
 # Purpose
 This is intended to be used when the first few club meetings occur to help train students on how to collaborate and contribute to open-source software.
